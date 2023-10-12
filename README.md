@@ -19,7 +19,7 @@ NOTE: Argument order is important!
 5. <min_lat> - minimum latitude coordinate of bounding box
 6. <max_lon> - maximum longitude coordinate of bounding box
 7. <max_lat> - maximum latitude coordinate of bounding box
-8. <prefix> - name of file prefix
+8. \<prefix> - name of file prefix
 
 # Outputs
 The script will produce X number of csv files in the directory where the script is located. The number of csv files will depend on the number of days that are included in the requested date range. csv files will be in the format `<prefex>-<start_date>.csv ... <prefex>-<end_date>.csv`
