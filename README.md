@@ -41,6 +41,6 @@ Each csv will contain the following attributes:
 - <start> - The datetime in which the visit commenced 
 - <end> - The datetime in wich the visit ended
 - <duration> - The duration of the visit
-- <GRID_CODE> - The Japanese mesh code ID at resolution 6 (125m)
+- \<GRID_CODE> - The Japanese mesh code ID at resolution 6 (125m)
 - <X> - The Longitude coordinate of the visit 
 - <Y> - The Latitude coordinate of the visit
